@@ -1,4 +1,4 @@
-const BASE_URL = 'https://maps';
+const BASE_URL = 'http://maps';
 const DEFAULT_URL = `${BASE_URL}.googleapis.com`;
 const API_PATH = '/maps/api/js?callback=_$_google_map_initialize_$_';
 
